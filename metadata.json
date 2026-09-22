@@ -1,0 +1,6 @@
+{
+  "name": "Tami Futsal Ground - Gahkuch Khari",
+  "description": "Online futsal turf booking with automated push notifications, advance screenshot upload, bank and e-wallet payments, and slot management for Tami Futsal Ground at Gahkuch Khari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
